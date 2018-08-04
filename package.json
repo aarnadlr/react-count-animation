@@ -19,7 +19,7 @@
     "type": "git",
     "url": "https://github.com/IceEnd/react-count-animation"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
   },
